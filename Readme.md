@@ -1,5 +1,4 @@
-# ELE3021 Operating System
- @ Hanyang University
+# ELE3021 Operating System @ Hanyang University
 
 This repository includes 4 projects done in ELE3021 class at Hanyang University in Spring 2019.
 
