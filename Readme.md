@@ -1,5 +1,6 @@
 # ELE3021 Operating System @ Hanyang University
 
+![](https://github.com/hyungkwonko/ELE3021-operating-system/blob/master/img/os.jpg)
 This repository includes 4 projects done in ELE3021 class at Hanyang University in Spring 2019.
 
 <br>
