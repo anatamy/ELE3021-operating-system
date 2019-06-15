@@ -1,0 +1,4 @@
+who
+pwd
+ls -al
+who ; pwd ; ls -al
